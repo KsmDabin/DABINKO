@@ -13,8 +13,8 @@ export default function Home() {
           height={150}
           className="rounded-full mx-auto mb-6"
         />
-        <h1 className="text-4xl font-bold mb-4">Dabinko Int'l Company</h1>
-        <h2 className="text-xl text-gray-600 mb-6">프론트엔드 개발자</h2>
+        <h1 className="text-4xl font-bold mb-4">Dabinko Int&apos;l Company</h1>
+        <h2 className="text-xl text-gray-600 mb-6">We&apos;re remotely controlling the humanoid through my cell phone app.</h2>
         <div className="flex justify-center gap-4">
           <a href="https://github.com/yourusername" className="text-2xl hover:text-gray-600">
             <FaGithub />
