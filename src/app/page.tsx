@@ -32,7 +32,7 @@ export default function Home() {
       <section className="max-w-4xl mx-auto mb-20">
         <h2 className="text-2xl font-bold mb-6">About Me</h2>
         <p className="text-gray-700 mb-4">
-          안녕하세요! 저는 3년차 프론트엔드 개발자입니다. 
+          We are suppling humanoids and repair them together with programs. 
           사용자 경험을 중심으로 한 웹 애플리케이션 개발에 관심이 많습니다.
         </p>
       </section>
