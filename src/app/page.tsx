@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa'
 
 export default function Home() {
   return (
-    <main className="min-h-screen p-8">
+    <main className="min-h-screen p-8 bg-gradient-to-b from-purple-100 via-purple-50 to-white">
       {/* Hero Section */}
       <section className="max-w-4xl mx-auto mb-20 text-center">
         <Image
