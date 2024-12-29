@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import './globals.css';
+
+const Layout = ({ children }: { children: React.ReactNode }) => {
+  return (
+    <html lang="ko">
+      <body>
+        <Header />
+        {children}
+        <Footer />
+      </body>
+    </html>
+  );
+};
+
+export default Layout; 
+=======
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
@@ -32,3 +52,4 @@ export default function RootLayout({
     </html>
   );
 }
+>>>>>>> b3365e8ac8d29a9267f9f6798fc40c36f837b111
